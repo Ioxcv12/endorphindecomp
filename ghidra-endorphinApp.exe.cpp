@@ -1,3 +1,5 @@
+#include <windows.h>
+#include <stdlib.h>
 typedef unsigned char   undefined;
 
 typedef unsigned char    bool;
