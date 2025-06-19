@@ -1,2 +1,2 @@
 # endorphindecomp
-endorphin 2.7.1 LE decomp. Files with ghidra- in the name were decomped directly using Ghidra and are unmodified.
+endorphin 2.7.1 LE decomp. Files with ghidra- in the name were decomped directly using Ghidra and are unmodified. Feel free to make pull requests and forks.
